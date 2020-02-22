@@ -148,11 +148,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="leet_code_training.cpp" />
-    <ClCompile Include="pb_771.cpp" />
+    <ClCompile Include="src\pb_001.cpp" />
+    <ClCompile Include="src\pb_771.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="all_solution.h" />
-    <ClInclude Include="pb_771.h" />
+    <ClInclude Include="src\pb_001.h" />
+    <ClInclude Include="src\pb_771.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

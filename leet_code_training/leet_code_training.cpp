@@ -3,31 +3,19 @@
 
 #include <iostream>
 #include <vector>
-#include "all_solution.h"
+
+#include "src/pb_001.h"
+#include "src/pb_771.h"
 
 using namespace std;
 
 int main()
 {
-    cout << "Hello World!\n";
+    PB001 pb_001;
+    pb_001.Test();
 
-    string test = "hello world";
-    for (auto c : test)
-        cout << c << endl;
 
-    vector<int> temp;
-    int target = 0;
-    auto begin = temp.begin();
-    auto end = temp.end();
-    auto mid = begin + (end- begin) / 2;
-    while (begin != mid && *mid != target)
-    {
-        if (target < *mid)
-            end = mid;
-        else
-            begin = mid + 1;
-        mid = begin + (end - begin) / 2;
-    }
+   
 }
 
 
