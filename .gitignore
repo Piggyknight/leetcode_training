@@ -1,0 +1,9 @@
+*.meta
+*.user
+bin/
+obj/
+*.suo
+v16/
+Debug/
+
+
