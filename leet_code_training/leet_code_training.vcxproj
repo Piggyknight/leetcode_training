@@ -149,10 +149,18 @@
   <ItemGroup>
     <ClCompile Include="leet_code_training.cpp" />
     <ClCompile Include="src\pb_001.cpp" />
+    <ClCompile Include="src\pb_011.cpp" />
+    <ClCompile Include="src\pb_015.cpp" />
+    <ClCompile Include="src\pb_070.cpp" />
+    <ClCompile Include="src\pb_283.cpp" />
     <ClCompile Include="src\pb_771.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\pb_001.h" />
+    <ClInclude Include="src\pb_011.h" />
+    <ClInclude Include="src\pb_015.h" />
+    <ClInclude Include="src\pb_070.h" />
+    <ClInclude Include="src\pb_283.h" />
     <ClInclude Include="src\pb_771.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

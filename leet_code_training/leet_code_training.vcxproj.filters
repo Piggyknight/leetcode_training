@@ -27,12 +27,36 @@
     <ClCompile Include="src\pb_001.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="src\pb_011.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\pb_283.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\pb_070.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\pb_015.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\pb_771.h">
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="src\pb_001.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="src\pb_011.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="src\pb_283.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="src\pb_070.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="src\pb_015.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
