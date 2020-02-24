@@ -7,3 +7,30 @@ v16/
 Debug/
 
 
+*.cmake
+*.make
+*.marks
+*.o
+*.includecache
+CMakeFiles/TargetDirectories.txt
+CMakeFiles/Progress/count.txt
+CMakeFiles/Progress/2
+CMakeFiles/Progress/1
+CMakeFiles/Makefile2
+CMakeFiles/leetcode_demo.dir/link.txt
+CMakeFiles/leetcode_demo.dir/depend.internal
+CMakeFiles/feature_tests.cxx
+CMakeFiles/feature_tests.c
+CMakeFiles/feature_tests.bin
+CMakeFiles/CMakeOutput.log
+CMakeFiles/cmake.check_cache
+CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp
+CMakeFiles/3.14.5/CompilerIdCXX/a.out
+CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c
+CMakeFiles/3.14.5/CompilerIdC/a.out.dSYM/Contents/Resources/DWARF/a.out
+CMakeFiles/3.14.5/CompilerIdC/a.out.dSYM/Contents/Info.plist
+CMakeFiles/3.14.5/CompilerIdC/a.out
+CMakeFiles/3.14.5/CMakeDetermineCompilerABI_CXX.bin
+CMakeFiles/3.14.5/CMakeDetermineCompilerABI_C.bin
+CMakeCache.txt
+Makefile
