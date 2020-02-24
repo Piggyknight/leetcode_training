@@ -28,7 +28,7 @@ void PB001::Test()
 	cout << "开始测试Pb001..." << endl;
 	//vector<int> nums{ 2, 7, 11, 15 };
 	//int target = 9;
-	vector<int> nums{ 3,2,4};
+	vector<int> nums {3,2,4};
 	int target = 6;
 
 	auto result = twoSum2(nums, target);

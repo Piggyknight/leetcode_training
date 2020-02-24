@@ -5,7 +5,8 @@ obj/
 *.suo
 v16/
 Debug/
-
+.vs/
+leetcode_demo
 
 *.cmake
 *.make

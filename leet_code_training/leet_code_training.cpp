@@ -5,6 +5,7 @@
 #include <vector>
 
 #include "src/pb_001.h"
+#include "src/pb_011.h"
 #include "src/pb_771.h"
 
 using namespace std;
@@ -14,8 +15,8 @@ int main()
     PB001 pb_001;
     pb_001.Test();
 
-
-   
+	PB011 pb_011;
+	pb_011.Test();
 }
 
 

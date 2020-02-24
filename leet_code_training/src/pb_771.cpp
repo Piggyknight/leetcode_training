@@ -40,6 +40,7 @@ public:
 
 	int _solution(char* input)
 	{
+		return 0;
 
 	}
 
