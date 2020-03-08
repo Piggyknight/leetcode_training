@@ -6,6 +6,7 @@
 
 #include "src/pb_001.h"
 #include "src/pb_011.h"
+#include "src/pb_015.h"
 #include "src/pb_771.h"
 
 using namespace std;
@@ -17,6 +18,9 @@ int main()
 
 	PB011 pb_011;
 	pb_011.Test();
+
+	PB015 pb_015;
+	pb_015.Test();
 }
 
 
