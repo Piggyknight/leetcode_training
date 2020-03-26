@@ -8,6 +8,7 @@
 #include "src/pb_011.h"
 #include "src/pb_015.h"
 #include "src/pb_771.h"
+#include "src/pb_283.h"
 
 using namespace std;
 
@@ -21,6 +22,9 @@ int main()
 
 	PB015 pb_015;
 	pb_015.Test();
+
+	PB283 pb_283;
+	pb_283.Test();
 }
 
 

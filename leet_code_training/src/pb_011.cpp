@@ -16,6 +16,7 @@
 #include "pb_011.h"
 #include <assert.h>
 #include <iostream>
+#include <algorithm>
 
 void PB011::Test()
 {

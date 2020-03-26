@@ -22,6 +22,8 @@
 
 #include "pb_015.h"
 #include <iostream>
+#include <assert.h>
+#include <algorithm>
 #include <unordered_map>
 #include <list>
 
